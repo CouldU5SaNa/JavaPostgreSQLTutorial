@@ -1,0 +1,2 @@
+# JavaPostgreSQLTutorial
+JavaとPostgreSQLを接続し、データの読み取りと抜き出しが可能なレベルまでスキルをアップします。
